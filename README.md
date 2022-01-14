@@ -1,6 +1,7 @@
 # CS6300_notes
 
-unofficial notes for CS6300.
+**Unofficial Notes for CS6300**
+
 Many thanks to **Shipra De**, one of the students who took the class in Fall 2014, for creating them!
 
 Important disclaimer: These notes were created by a student without any help or input from teaching staff, so staff does not officially endorse them 
